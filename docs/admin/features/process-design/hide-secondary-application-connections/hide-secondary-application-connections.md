@@ -1,4 +1,4 @@
-# Method: hide secondary application connections as inputs and outputs feature
+# Method: Hide secondary application connections as inputs and outputs
 
 This feature enables a simplification of the used method in relation to the assignment of applications to processes or tasks. 
 
